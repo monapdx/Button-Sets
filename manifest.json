@@ -1,0 +1,9 @@
+{
+  "id": "button-sets",
+  "name": "Button Sets",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Create custom styled buttons with uploaded animated icons.",
+  "author": "Ashly",
+  "isDesktopOnly": false
+}
